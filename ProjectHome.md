@@ -1,0 +1,1 @@
+Xales is an open-source POS system build for touchscreens. It is built entirely in web languages, such as HTML, CSS, and Javascript, and runs on a mozilla engine under archlinux.
